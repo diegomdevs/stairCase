@@ -4,7 +4,8 @@
   "description": "A challenge from HackerRanck. Its base and height are both equal ton. It is drawn using # symbols and spaces. The last line is not preceded by any spaces.",
   "main": "src/index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "node src/index.js"
   },
   "author": "diegodevs <diegom.develops@gmail.com>",
   "license": "MIT",
