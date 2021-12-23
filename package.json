@@ -1,0 +1,15 @@
+{
+  "name": "staircase",
+  "version": "1.0.0",
+  "description": "A challenge from HackerRanck. Its base and height are both equal ton. It is drawn using # symbols and spaces. The last line is not preceded by any spaces.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "diegodevs <diegom.develops@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  }
+}
